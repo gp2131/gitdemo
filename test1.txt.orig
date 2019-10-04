@@ -1,0 +1,6 @@
+Merge Conflict test
+<<<<<<< HEAD
+Changes done by BOB
+=======
+changes done by ALICE
+>>>>>>> changes done by alice

@@ -1,2 +1,1 @@
-Merge Conflict test
-Changes done by BOB
+changes done by ALICE and new branch created
